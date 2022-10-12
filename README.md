@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @guiray
 - 👀 I like messing around with tech, software and gear! Also cats 🐱
-- 🌱 I’m currently working as a Immersive Audio Lead  @SAT, teaching interactive media, and studying computer science
+- 👾 Audio and visual artist
+- 🌱 I’m currently studying computer science
 
 <!---
 guiray/guiray is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
