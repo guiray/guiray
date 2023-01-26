@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @guiray
-- 👀 I like messing around with tech, software and gear! Also cats 🐱
+- 👀 I like messing around with tech, software and gear! 
 - 👾 Audio and visual artist
 - 🌱 I’m currently studying computer science
 
